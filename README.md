@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there 👋 I'm Oktay!
 
-<!--
-**oktay-osman/oktay-osman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/oktay-osman?label=Follow&style=social)](https://github.com/oktay-osman)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 🌱 I’m learning Cloud, DevOps, AI/ML
+- 🎯 My goal is to become a DevOps with a touch of AI -> MLOps
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/oktay-osman-5011671b4/)
+
+---
+
+## 🚀 Skills and Tools
+
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oktay-osman&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktay-osman&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 💬 Quote of the Day
+
+> "The best way to predict the future is to invent it." – Alan Kay
