@@ -6,9 +6,7 @@
 
 ## 🌟 About Me
 
-- 🌱 I’m learning Cloud, DevOps, AI/ML
-- 🎯 My goal is to become a DevOps with a touch of AI -> MLOps
-
+- 🌱 I’m learning Java, Spring, Cloud, DevOps, AI/ML
 ---
 
 ## 📫 Connect With Me
