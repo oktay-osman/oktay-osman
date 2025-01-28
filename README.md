@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-- 🌱 I’m learning Java, Spring, Cloud, DevOps, AI/ML
+- 🌱 Interested in Java, Spring, Cloud, DevOps, AI/ML
 ---
 
 ## 📫 Connect With Me
